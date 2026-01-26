@@ -1,0 +1,8 @@
+# Ignore large caches and local sockets
+**/cache/
+**/Cache/
+**/.DS_Store
+
+# Ignore specific sensitive files (examples)
+gh/hosts.yml
+discord/Local Storage/

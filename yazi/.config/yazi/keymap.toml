@@ -1,0 +1,51 @@
+# keymap.toml
+[mgr]
+
+prepend_keymap = [
+
+  # Zoom preview
+  {on   = "+", run  = "plugin zoom 1", desc = "Zoom in hovered file"},
+  {on   = "-", run  = "plugin zoom -1", desc = "Zoom out hovered file"},
+
+
+  # Change ZOXIDE to a more usable hotkey
+  { on = "z",       run = "plugin zoxide",   desc = "Jump to a directory via zoxide" },
+  { on = "Z",       run = "plugin fzf",      desc = "Jump to a file/directory" },
+  
+  # lunch a Terminal App
+  { on = "T",       run = "shell --orphan --confirm alacritty", desc = "Open terminal at current directory"},
+  
+  
+  # Dragon - Drop
+  { on = "<C-D>", run = "shell -- dragon-copy.sh" },
+
+  # View images on kitty
+  { on = "<C-v>", run = "open --using view_icat", desc = "Visualizar imagen completa con iCAt Kitty only" },
+
+  # Yazi Projects MasouShizuka - Manage tabs and status
+
+  { on = [ "<A-p>", "s" ], run = "plugin projects save", desc = "Save current project"},
+  { on = [ "<A-p>", "l" ], run = "plugin projects load", desc = "Load project" },
+  { on = [ "<A-p>", "P" ], run = "plugin projects load_last", desc = "Load last project" },
+  { on = [ "<A-p>", "d" ], run = "plugin projects delete", desc = "Delete project" },
+  { on = [ "<A-p>", "D" ], run = "plugin projects delete_all", desc = "Delete all projects" },
+  { on = [ "<A-p>", "m" ], run = "plugin projects 'merge current'", desc = "Merge current tab to other projects" },
+  { on = [ "<A-p>", "M" ], run = "plugin projects 'merge all'", desc = "Merge current project to other projects" },
+
+  # Compresion using ouch
+
+  { on = ["<C-z>","z"], run = "plugin ouch", desc = "Compress with ouch"  },
+
+  # Rip Drag
+  # Drag-n-drop selected files from Yazi (Alt-d)
+  { on = "<A-d>", run = '''shell -- ripdrag --no-click --and-exit --icon-size 64 --all "$@" ''', desc = "Drag files from Yazi" },
+
+  # Drag-n-drop files *into* the current directory of Yazi (Alt-Shift-D)
+  # This command copies the dropped files into the current directory
+  { on = "<A-D>", run = '''shell -- ripdrag --no-click --and-exit --target "$@" | while read filepath; do cp -fR "$filepath" .; done ''', desc = "Drag-n-drop files to Yazi (overwrite)" },
+  
+  # An alternative for Alt-D that avoids overwriting existing files
+  # { on = "<A-D>", run = [[shell -- ripdrag --no-click --and-exit --target --all, "$@" | while read filepath; do cp -nR "$filepath" .; done ]], desc = "Drag-n-drop files to Yazi (no clobber)" },
+  
+
+]

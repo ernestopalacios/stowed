@@ -26,7 +26,7 @@ libre   = [{ run = 'libreoffice "$@"', desc = "LibreOffice", block = false, orph
 only    = [{ run = 'onlyoffice-desktopeditors "$@"', desc = "OnlyOffice", block = false, orphan = true }]
 view_icat  = [{ run = 'clear; kitty +kitten icat --hold "$@"', block = true, orphan = false, desc = "Ver con icat" }]
 satty = [{ run = 'satty --filename "$@" --output-filename "$@" --early-exit', orphan = true, desc = "Annotate with Satty", block = false }]
-
+fast  = [{ run = 'fs-wine "$@"', desc = "FastStone", block = false}]
 # --- RULES (Association) ---
 [open]
 prepend_rules = [
@@ -34,10 +34,10 @@ prepend_rules = [
   { mime = "text/*", use = ["edit","subl", "open", "abrir"] },
   { mime = "application/{pdf}",  use = ["tdf", "pdf", "open", "abrir"] },
   { mime = "application/{doc,docx,xls,xlsx}", use = ["only","open", "libre", "abrir"]},
-  { mime = "image/*", use = ["view_icat", "open", "xnview", "satty", "abrir"] },
+  { mime = "image/*", use = ["view_icat", "open", "xnview", "satty","fast", "abrir"] },
 
   # Overwrite fallback
-  { url = "*", use = [ "open", "xnview", "abrir", "only", "satty" ] },
+  { url = "*", use = [ "open", "xnview", "abrir", "only", "satty", "fast" ] },
 ]
 
   

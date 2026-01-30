@@ -36,6 +36,9 @@ prepend_keymap = [
 
   { on = ["<C-z>","z"], run = "plugin ouch", desc = "Compress with ouch"  },
 
+  # rga serch with plugin fazif
+  { on = ["<A-z>"], run = "plugin fazif fazifrga", desc = "Find content in docuemnts with ripgrep-all and fzf" },
+
   # Rip Drag
   # Drag-n-drop selected files from Yazi (Alt-d)
   { on = "<A-d>", run = '''shell -- ripdrag --no-click --and-exit --icon-size 64 --all "$@" ''', desc = "Drag files from Yazi" },

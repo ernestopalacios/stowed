@@ -33,11 +33,12 @@ prepend_keymap = [
   { on = [ "<A-p>", "M" ], run = "plugin projects 'merge all'", desc = "Merge current project to other projects" },
 
   # Compresion using ouch
-
   { on = ["<C-z>","z"], run = "plugin ouch", desc = "Compress with ouch"  },
+  { on = ["<C-z>","d"], run = 'ouch d -y "$@"', desc = "Decompress with ouch"  },
+  
 
   # rga serch with plugin fazif
-  { on = ["<A-z>"], run = "plugin fazif fazifrga", desc = "Find content in docuemnts with ripgrep-all and fzf" },
+  { on = ["<A-z>","z"], run = "plugin fazif fazif_rga_claude", desc = "Find content in docuemnts with ripgrep-all and fzf" },
 
   # Rip Drag
   # Drag-n-drop selected files from Yazi (Alt-d)

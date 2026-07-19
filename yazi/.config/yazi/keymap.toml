@@ -38,7 +38,7 @@ prepend_keymap = [
   
 
   # rga serch with plugin fazif
-  { on = ["<A-z>","z"], run = "plugin fazif fazif_rga_claude", desc = "Find content in docuemnts with ripgrep-all and fzf" },
+  { on = ["<C-s>","s"], run = "plugin fazif fazifrga", desc = "Find content in docuemnts with ripgrep-all and fzf" },
 
   # Rip Drag
   # Drag-n-drop selected files from Yazi (Alt-d)

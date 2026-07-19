@@ -1,6 +1,6 @@
 [mgr]
 
-ratio = [1,3,4]
+ratio = [1,4,3]
 sort_by = "natural"
 linemode = "size"
 preview_method = "kitty"
@@ -24,7 +24,7 @@ subl       = [{ run = 'subl "$@"',        block = true }]
 pdf        = [{ run = 'zathura "$@"',     block = false, orphan = true }]
 tdf        = [{ run = 'tdf "$@"',         desc = "tdf", block = true, for = "unix" }]
 open       = [{ run = 'xdg-open "$@"',    desc = "Default" }]
-abrir      = [{ run = 'cosmic-files "$@"', desc = "Archivos" }]
+abrir      = [{ run = 'nautilus "$@"', desc = "Archivos" }]
 xnview     = [{ run = 'xnviewmp.appimage "$@"', block = false, orphan = true, desc = "XnViewMP" }]
 libre      = [{ run = 'libreoffice "$@"', desc = "LibreOffice", block = false, orphan = true }]
 only       = [{ run = 'onlyoffice-desktopeditors "$@"', desc = "OnlyOffice", block = false, orphan = true }]
@@ -36,13 +36,13 @@ extract    = [{ run = 'ouch d -y "$@"', desc = "Extract here with ouch", for = "
 [open]
 prepend_rules = [
 
-  { mime = "text/*", use = ["edit","subl", "open", "abrir"] },
+  { mime = "text/{txt,c,dat}", use = ["edit","subl", "open", "abrir"] },
   { mime = "application/{pdf}",  use = ["tdf", "pdf", "open", "abrir"] },
   { mime = "application/{doc,docx,xls,xlsx}", use = ["only","open", "libre", "abrir"]},
   { mime = "image/*", use = ["view_icat", "open", "xnview", "satty","fast", "abrir"] },
 
   # Overwrite fallback
-  { url = "*", use = [ "open", "xnview", "abrir", "only", "satty", "fast" ] },
+  { url = "*", use = [ "open","edit", "xnview", "abrir", "only", "satty", "fast" ] },
 ]
 
   
@@ -67,11 +67,11 @@ prepend_previewers = [
 ]
 
 [[plugin.prepend_fetchers]]
-id  = "git"
-url = "*"
-run = "git"
+url   = "*"
+run   = "git"
+group = "git"
 
 [[plugin.prepend_fetchers]]
-id  = "git"
-url = "*/"
-run = "git"
+url   = "*/"
+run   = "git"
+group = "git"

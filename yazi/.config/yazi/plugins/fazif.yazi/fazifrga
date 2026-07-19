@@ -9,7 +9,7 @@ for item in "$@"; do
     fi
 done
 
-(fd . -e pdf -e djvu -e djv "$@" 2>/dev/null & printf "%s" "$FILES_TO_ADD") | fzf \
+(fd . -e pdf -e djvu -e djv "$@" 2>/dev/null & printf "%s" "$FILES_TO_ADD") | FZF_DEFAULT_COMMAND= SHELL=/bin/bash fzf \
     --info=inline \
     --multi \
     --layout=reverse \

@@ -19,19 +19,19 @@ quality = 90
 
 # --- OPENERS (Command Definitions) ---
 [opener]
-edit       = [{ run = 'micro "$@"',       block = true }]
-subl       = [{ run = 'subl "$@"',        block = true }]
-pdf        = [{ run = 'zathura "$@"',     block = false, orphan = true }]
-tdf        = [{ run = 'tdf "$@"',         desc = "tdf", block = true, for = "unix" }]
-open       = [{ run = 'xdg-open "$@"',    desc = "Default" }]
-abrir      = [{ run = 'nautilus "$@"', desc = "Archivos" }]
-xnview     = [{ run = 'xnviewmp.appimage "$@"', block = false, orphan = true, desc = "XnViewMP" }]
-libre      = [{ run = 'libreoffice "$@"', desc = "LibreOffice", block = false, orphan = true }]
-only       = [{ run = 'onlyoffice-desktopeditors "$@"', desc = "OnlyOffice", block = false, orphan = true }]
-view_icat  = [{ run = 'clear; kitty +kitten icat --hold "$@"', block = true, orphan = false, desc = "Ver con icat" }]
-satty      = [{ run = 'satty --filename "$@" --output-filename "$@" --early-exit', orphan = true, desc = "Annotate with Satty", block = false }]
-fast       = [{ run = 'fs-wine.fish "$@"', desc = "FastStone", block = false}]
-extract    = [{ run = 'ouch d -y "$@"', desc = "Extract here with ouch", for = "unix" }]
+edit       = [{ run = 'micro %s1',       block = true }]
+subl       = [{ run = 'subl %s1',        block = true }]
+pdf        = [{ run = 'zathura %s1',     block = false, orphan = true }]
+tdf        = [{ run = 'tdf %s1',         desc = "tdf", block = true, for = "unix" }]
+open       = [{ run = 'xdg-open %s1',    desc = "Default", for = "unix" }]
+abrir      = [{ run = 'nautilus %s1', desc = "Archivos", for = "unix" }]
+xnview     = [{ run = 'xnviewmp.appimage %s1', block = false, orphan = true, desc = "XnViewMP" }]
+libre      = [{ run = 'libreoffice %s1', desc = "LibreOffice", block = false, orphan = true }]
+only       = [{ run = 'onlyoffice-desktopeditors %s1', desc = "OnlyOffice", block = false, orphan = true }]
+view_icat  = [{ run = 'clear; kitty +kitten icat --hold %s1', block = true, orphan = false, desc = "Ver con icat" }]
+satty      = [{ run = 'satty --filename %s1 --output-filename %s1 --early-exit', orphan = true, desc = "Annotate with Satty", block = false }]
+fast = [{ run = 'env -u DISPLAY WINEPREFIX="$HOME/.local/share/wineprefixes/faststone" wine "$HOME/.local/share/wineprefixes/faststone/drive_c/Program Files (x86)/FastStone Image Viewer/FSViewer.exe" %s1', desc = "FastStone", block = false }]
+extract    = [{ run = 'ouch d -y %s', desc = "Extract here with ouch", for = "unix" }]
 # --- RULES (Association) ---
 [open]
 prepend_rules = [
@@ -41,11 +41,14 @@ prepend_rules = [
   { mime = "application/{doc,docx,xls,xlsx}", use = ["only","open", "libre", "abrir"]},
   { mime = "image/*", use = ["view_icat", "open", "xnview", "satty","fast", "abrir"] },
 
+  # Extract archives by default
+  { mime = "application/{*zip,x-tar,x-bzip2,x-7z-compressed,x-rar,vnd.rar,x-xz,xz,x-zstd,zstd,java-archive}", use = ["extract", "open", "abrir"] },
+
   # Overwrite fallback
   { url = "*", use = [ "open","edit", "xnview", "abrir", "only", "satty", "fast" ] },
 ]
 
-  
+
 
 
 # --- PLUGINS ---
@@ -64,14 +67,20 @@ prepend_previewers = [
     { mime = "application/x-zstd",          run = "ouch" },
     { mime = "application/zstd",            run = "ouch" },
     { mime = "application/java-archive",    run = "ouch" },
+    { url = '*.typ', run = 'preview-typst' },
+
 ]
 
-[[plugin.prepend_fetchers]]
-url   = "*"
-run   = "git"
-group = "git"
+prepend_preloaders = [
+    { url = '*.typ', run = 'preview-typst' },
+]
 
-[[plugin.prepend_fetchers]]
-url   = "*/"
-run   = "git"
-group = "git"
+# [[plugin.prepend_fetchers]]
+# url   = "*"
+# run   = "git"
+# group = "git"
+# 
+# [[plugin.prepend_fetchers]]
+# url   = "*/"
+# run   = "git"
+# group = "git"

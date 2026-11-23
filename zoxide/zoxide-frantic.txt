@@ -1,0 +1,219 @@
+/home/vlad/GIT/ot_he_v30_estable
+/home/vlad/.config/yazi
+/home/vlad/dotfiles/stowed
+/home/vlad/GIT/biometrico
+/home/vlad/GIT/ordenes_de_trabajo
+/home/vlad/GIT
+/home/vlad/Descargas
+/home/vlad/Descargas/.yu
+/home/vlad/OneDrive/01 Documentos Personales
+/home/vlad/_FIRMAEC
+/home/vlad/dotfiles/stowed/zoxide
+/data
+/home/vlad/GIT/pdf-to-obsidian
+/home/vlad/OneDrive/01 Documentos Personales/11 Palacios Merino Ernesto Vladimir
+/home/vlad/GIT/ot_he_v30_estable/reporte
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026
+/home/vlad/docker/dockge/stacks
+/home/vlad/OneDrive/01 JEZO/temp_JEZO_borrar/0000 editar imagenes
+/home/vlad/GIT/gdrive-utils
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA
+/mnt/raid5
+/home/vlad/GIT/ot_he_v30_estable/eerssa
+/home/vlad/Imágenes/Screenshots
+/home/vlad/OneDrive/01 JEZO/18 Cuadro de Turnos/2026
+/home/vlad/Documentos/_gestion_ot/ot_procesados
+/home/vlad/OneDrive/01 JEZO/temp_JEZO_borrar/0000 editar imagenes/reportes
+/home/vlad/docker/dockge
+/data/(sig)
+/home/vlad/GIT/pandas-to-excel-automation
+/home/vlad/GIT/ordenes_de_trabajo/reporte
+/home/vlad/.local/share/fonts
+/data/shared_vm
+/home/vlad/GIT/ot_he_v32
+/home/vlad/OneDrive/01 JEZO/00 Asistencia Biometrico
+/home/vlad/.config/niri/dms
+/home/vlad/GIT/_keys
+/home/vlad/OneDrive/01 JEZO
+/home/vlad/GIT/pandas-to-excel-automation/templates
+/mnt/raid5/DATA_BKP/.$RECYCLE.BIN/beast
+/home/vlad/OneDrive/01 JEZO/18 SSO
+/home/vlad/GIT/ordenes_de_trabajo/models
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/[07] 04 [ YBI  ][   EM ][ Est 38458 ] DESBORDAMIENTO Rio Kantzama Inundaciones
+/home/vlad/.local/bin
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026
+/home/vlad/.local/share/fonts/franklin
+/home/vlad/OneDrive/01 JEZO/temp_JEZO_borrar
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/01_ENERO
+/home/vlad/docker/dockge/stacks/stirling-pdf
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/03_MARZO
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_junio/1_de_loja
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_julio
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios
+/home/vlad/OneDrive/01 Documentos Personales/11 Palacios Merino Ernesto Vladimir/[4] Senescyt Ingenieria/Notariado_300ppp_convertedToImages_2/posterize
+/home/vlad/android_ftp
+/home/vlad/OneDrive/01 JEZO/09 ORDENES DE DESENERGIZACION/2026_suspensiones/2026-03-06 =002= [ AQ ] FRios en San Carlos de las Minas
+/.forbidden
+/home/vlad/OneDrive/01 JEZO/09 ORDENES DE DESENERGIZACION/2026_suspensiones/2026-02-23 =047= [ AQ ] FRios - Sabanilla Cancha Cubierta
+/home/vlad/OneDrive/01 JEZO/7_Obsidian/BigData/EERSSA
+/home/vlad/GIT/ordenes_de_trabajo/notebooks
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/05 MAYO/02 CUADRILLA ZAMORA
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/09 AUTORIZACIONES DE DESPACHO DE COMBUSTIBLE/2026/scan
+/mnt/raid5/DATA_BKP/.$RECYCLE.BIN
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/08_AGOSTO/he_cuadrillas_pdf
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/04_ABRIL/he_cuadrillas_pdf
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/[07] 04 [ YBI  ][   EM ][ Est 38458 ] DESBORDAMIENTO Rio Kantzama Inundaciones/videos facebook
+/home/vlad/OneDrive/01 JEZO/09 Planillas
+/home/vlad/GIT/ordenes_de_trabajo/docs
+/home/vlad/.config/niri
+/data/shared_vm/[ 01 ] ACTIVIDADES_DIARIAS/2026_firma
+/home/vlad/Documentos/_gestion_ot
+/home/vlad/OneDrive/01 JEZO/00 Asistencia Biometrico/Asistencias_Mayo_2026
+/home/vlad/Documentos
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_junio/1_de_loja/comprobantes
+/run/media
+/home/vlad/Documentos/combustible_abril_2026
+/
+/home/vlad/OneDrive/01 Documentos Personales/11 Palacios Merino Ernesto Vladimir/[4] Senescyt Ingenieria/Notariado_300ppp_convertedToImages_2/one_2
+/data/INFORMES
+/home/vlad/OneDrive/01 JEZO/09 Planillas/2026/04 Planilla poste Timbara del 2026-03-24
+/home/vlad/Descargas/temp
+/home/vlad/OneDrive/01 Documentos Personales/11 Palacios Merino Ernesto Vladimir/[4] Senescyt Ingenieria/Notariado_300ppp_convertedToImages_2
+/home/vlad/OneDrive/01 JEZO/08 Plan de Mantenimiento/2026/[00] PLANIFICADO ADMS/04 Abril ADMS
+/home/vlad/docker/dockge/stacks/kafka
+/home/vlad/GIT/editarDeltaLake
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/06 JUNIO
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/04 ABRIL
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/07_JULIO/he_cuadrillas_pdf
+/home/vlad/dotfiles
+/home/vlad/OneDrive/01 JEZO/7_Obsidian/BigData/EERSSA/18_Asistencias
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/09 AUTORIZACIONES DE DESPACHO DE COMBUSTIBLE
+/home/vlad/OneDrive/01 JEZO/7_Obsidian/BigData/EERSSA/18_Asistencias/Archivos
+/data/appdata
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/09 AUTORIZACIONES DE DESPACHO DE COMBUSTIBLE/2026
+/home/vlad/.ssh
+/mnt/twoTB
+/data/fish_devops
+/home/vlad/GIT/ordenes_de_trabajo/secrets
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS
+/mnt/raid5/restic
+/home/vlad/.local/share
+/home/vlad/GIT/ot_he_v30_estable/models
+/data/(sig)/SIG [con SR]/SIG 503 - Est 128674 antes trafo 25483 ahora es 26217 - Los Laureles Gza
+/home/vlad/.config/yazi/flavors
+/usr/bin
+/home/vlad/OneDrive/01 JEZO/04 Bodega
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/07 JULIO/05 CUADRILLA YANTZAZA
+/data/docker_backrest/config
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/02 FEBRERO/24 (electricistas) Ag. Gualaquiza
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/10 OCTUBRE/24 (electricistas) Ag. Gualaquiza
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_julio/2_Comprobantes
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026-09_septiembre/png
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026-09_septiembre/lower
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_agosto_corregido
+/home/vlad/fots/cheri
+/run/media/vlad/LNX_MINT_21
+/home/vlad/OneDrive/01 JEZO/12 Tareas completadas
+/home/vlad/Escritorio
+/data/(sig)/SIG 573 - Est 270710 intercalado RBV entre 30481 y 30879 Mutintza
+/var
+/home/vlad/OneDrive/01 JEZO/12 TAREAS QUIPUX/2026-09-11 = AQ = ( EP-RS ) Santiago Avila reubcar tensor Est 179148 en Yantzaza
+/home/vlad/OneDrive/01 JEZO/temp_JEZO_borrar/0000 editar imagenes/reportes/Instalar_Fuente-IosevkaAile
+/mnt/raid5/DATA_BKP/[E] EERSSA_bkp/INFORMES_al_24_julio_2025/EERSSA/FICHAS SIG PARA CAMBIOS DE LAS REDES DE DISTRIBUCIÓN
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/02 FEBRERO/01 JEFE ZONAL
+/home/vlad/docker/dockge/stacks/backrest
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_junio/1_de_loja/autorizaciones
+/home/vlad/.local/share/zed/languages/basedpyright/node_modules/basedpyright/dist/typeshed-fallback/stdlib
+/data/(sig)/SIG [ listo]/SIG 528 - Est 22417 ahora es 222854 con tensor Est 222855 - El Pangui PGI
+/home/vlad/GIT/biometrico/xlsx_templates
+/home/vlad/_FIRMAEC/oct_para_aiq
+/mnt/raid5/JPG_BKP/bkp_vlad_A54_2026/Download/familia
+/home/vlad/OneDrive/01 JEZO/12 TAREAS QUIPUX
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_agosto_corregido/png_split_150ppp
+/run/media/vlad/LNX_MINT_21/HPSCANS
+/data/(sig)/SIG 570 - Repotenciacion SAPG en Gza tras Centro de Matriculacion
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_julio_corregido/posterize_150ppp/comprobantes
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_julio_corregido/posterize_150ppp
+/home/vlad/_FIRMAEC/z_firma_ep
+/home/vlad/OneDrive/01 JEZO/09 ORDENES DE DESENERGIZACION/2026_suspensiones/2026-08-12 =284= [ EP ] JA en Zumbi - Michael Torres
+/home/vlad/OneDrive/01 JEZO/temp_JEZO_borrar/0000 editar imagenes/variant_YBI
+/mnt/raid5/DATA_BKP
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/08_AGOSTO
+/home/vlad/Descargas/JDownloader
+/home/vlad/Descargas/JDownloader/facebook_19-08-2026
+/home/vlad/.local/bin/dividir-sheet
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/02 FEBRERO/03 CUADRILLA ALUMBRADO ZAMORA
+/data/shared_vm/[ 04 ] HORAS EXTRA/2026/10_OCTUBRE/00_Informe_HE_todos_individual
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/08 AGOSTO/04 CUADRILLA YACUAMBI
+/home/vlad/OneDrive/01 Documentos Personales/13 Camila Danae Palacios Japa/02 GAMBETITAS ALFARINAS
+/home/vlad/OneDrive/01 JEZO/18 Vacaciones/2026
+/home/vlad/GIT/ordenes_de_trabajo/eerssa
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/04 ALQUILER VEHÍCULOS/2026/09_Septiembre
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/09 SEPTIEMBRE
+/home/vlad/OneDrive/01 Documentos Personales/23 Japa Fernandez Diego Patricio/Partidas de nacimiento Hnos Japa-Fernandez
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/[03] 24 [ YBI  ][ mtto   ][ Est nuevas ] Ampliacion de RBV en sector El Camal YBI
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/04_ABRIL/he_SICAS_enviado
+/home/vlad/OneDrive/01 JEZO/04 Bodega/2024/01 Zamora/160201 (MTTO)
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_julio/1_Autorizaciones
+/home/vlad/.local/share/fonts/windows
+/home/vlad/.config/yazi/plugins/fazif.yazi
+/home/vlad/docker/dockge/stacks/paperless
+/home/vlad/OneDrive/01 JEZO/12 TAREAS QUIPUX/2026-09-11 = EP = ( 📷 ) Walter Jimenez - reubicar trafo en Yantzaza
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/videos facebook
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/05 MAYO/03 CUADRILLA ALUMBRADO ZAMORA
+/mnt/raid5/JPG_BKP/FOTOS_EP/RECONECTADORES DE LA ZONA/Reconectadores y Subestaciones
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/[03] 20 [ ZMR2 ][ prev   ][ Est 216205 ] Cambio de poste impactado particular
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/07_JULIO
+/home/vlad/OneDrive/01 JEZO/08 Plan de Mantenimiento/2026/[02] Mantenimientos Preventivos
+/home/vlad/OneDrive/01 Documentos Personales/13 Camila Danae Palacios Japa/Gabby colorear
+/home/vlad/GIT/pdf-to-obsidian/src
+/home/vlad/OneDrive
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/02 FEBRERO/06 CUADRILLA ENERGIZADA YANTZAZA
+/data/appdata/heaper/storage
+/data/shared_vm/[ 09 ] epalacios
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/06 JUNIO/06 CUADRILLA ENERGIZADA YANTZAZA
+/data/(sig)/SIG [con SR]
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_septiembre
+/home/vlad/Documentos/combustible_abril_2026/04 - 2026 - Abril - comprobantes desde el 10
+/home/vlad/OneDrive/01 JEZO/09 ORDENES DE DESENERGIZACION/2026_suspensiones/2026-04-06 =118= [ AQ ] FRios en Zamora
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/05 MAYO/22 (electricistas) Ag. Yantzaza
+/home/vlad/docker/dockge/stacks/heaper
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/05 MAYO/23 (electricistas) Ag. El Pangui
+/home/vlad/OneDrive/01 JEZO/18 SSO/04 [09.02] Livio Vera/CERTIFICADOS MEDICOS
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_septiembre/png/comprobantes
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_septiembre/png/autorizaciones
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_septiembre/png
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_agosto_corregido/png_split_150ppp/comprobantes
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_agosto_corregido/png_split_150ppp/autorizaciones
+/home/vlad/GIT/pdf-to-obsidian/.github
+/home/vlad/OneDrive/01 JEZO/7_Obsidian/BigData/01 AI dev/zz_Pi_Chat
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/01 ENERO/03 CUADRILLA ALUMBRADO ZAMORA
+/home/vlad/GIT/pdf-to-obsidian/src/pdf_to_obsidian
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2025/09 SEPTIEMBRE/08 CUADRILLA GUAYZIMI
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/05 MAYO/07 CUADRILLA PAQUISHA
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/01_ENERO/calificacion_ot
+/home/vlad/delta_V30
+/home/vlad/OneDrive/01 JEZO/09 ORDENES DE DESENERGIZACION/2026_suspensiones
+/home/vlad/OneDrive/01 JEZO/08 Plan de Mantenimiento/2026/[03] SAPG
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/06 JUNIO/10 CUADRILLA GUALAQUIZA
+/home/vlad/OneDrive/10 Finanzas
+/data/(sig)/TRAFOS enviados a Loja (EP) Fotos/00 Trafos en bodega Zamora
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/04_ABRIL
+/home/vlad/OneDrive/01 JEZO/04 Bodega/2025
+/home
+/home/vlad/Pictures
+/data/shared_vm/[ 04 ] HORAS EXTRA/2026
+/home/vlad/go
+/data/(sig)/SIG [ listo]
+/home/vlad/GIT/pdf-to-obsidian/notebooks
+/home/vlad/OneDrive/01 JEZO/03 Informes Varios/03 HORAS EXTRA/2026/02_FEBRERO/calificacion_ot
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/[07] 25 [ ZMR1 ][ falla  ][ Est 27023 ] El Limon CAUSA FALLA AP ZAMORA 1
+/data/shared_vm/[ 02 ] AUTORIZACION DE DESPACHO DE COMBUSTIBLE/2026_agosto
+/home/vlad/.config/yazi/flavors/flexoki-dark.yazi
+/home/vlad/OneDrive/01 JEZO/01 ACTIVIDADES DIARIAS/2026/03 MARZO
+/home/vlad/Videos
+/data/appdata/heaper
+/home/vlad/Imágenes
+/mnt/raid5/JPG_BKP/FOTOS_EP/2026/[07] 17 [ LAT  ][  mtto ][ Est    ] Requebrajamiento de terreno en Panguintza cerca de la LST
+/home/vlad/.local/share/applications
